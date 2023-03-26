@@ -1,7 +1,5 @@
 
-<video width="800" height="400" controls>
-  <source src="flip-card-video.mp4" type="video/mp4">
-</video>
+ <img  src="page.png" width="700" height="400" />
 
 
 <h2>You will need; </h2>
